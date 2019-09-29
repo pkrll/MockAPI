@@ -1,10 +1,10 @@
 {
-  "name": "legolandapi",
+  "name": "MockAPI",
   "version": "1.0.0",
-  "description": "Mock API for Legoland",
+  "description": "Mock API",
   "main": "app.js",
   "scripts": {
-    "start": "node_modules/.bin/babel-node app.js"
+    "start": "node app.js"
   },
   "author": "Ardalan Samimi",
   "license": "ISC",
